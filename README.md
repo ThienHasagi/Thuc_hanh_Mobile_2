@@ -13,7 +13,14 @@ Danh sách tài khoản do nhóm cung cấp:
 | Dương Quốc Hoàng | [@dqhoang4-bot](https://github.com/dqhoang4-bot) |
 | Phạm Đức Thành | [@PRTNeroRay](https://github.com/PRTNeroRay) |
 
-Danh sách thành viên không thay thế lịch sử đóng góp. Phần việc cá nhân được xác nhận qua commit, pull request và kết quả kiểm thử/tài liệu của từng người. Xem [hướng dẫn đóng góp](docs/CONTRIBUTING.md).
+### 👥 Phân công nhiệm vụ & Đóng góp thành viên (Project Contribution)
+
+| STT | Thành viên | Vai trò được gán | Module phụ trách chính | Phần code / File cần nắm chắc |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Hà Trường Thiện** | Kiến trúc & Core Logic | Database Room, Flow Đăng nhập, SharedPreferences, Đồng bộ State | `AppDatabase.kt`, `AccountDao.kt`, `SharedPrefManager.kt`, `LoginScreen.kt`, Navigation |
+| **2** | **Dương Quốc Hoàng** | Employee Module | Quản lý thông tin nhân viên (Admin), Tìm kiếm, CRUD, Quản lý Hourly Rate | `Employee.kt`, `EmployeeDao.kt`, `EmployeeViewModel.kt`, `EmployeeManagementScreen.kt` |
+| **3** | **Phùng Như Ý** | Attendance Module | Chấm công Check-in / Check-out, Lịch sử làm việc, Data Validation (chống trùng lặp, chặn giờ lỗi) | `WorkLog.kt`, `WorkLogDao.kt`, `AttendanceViewModel.kt`, `AttendanceScreen.kt`, `DateTimeHelper.kt` |
+| **4** | **Phạm Đức Thành** | Salary Module | Tự động tính lương theo tháng, xử lý làm thêm giờ (Overtime), Quản lý & xem bảng lương | `Salary.kt`, `SalaryDao.kt`, `SalaryCalculator.kt`, `SalaryViewModel.kt`, `SalaryScreen.kt` |
 
 ## 2. Mục tiêu và chức năng
 
