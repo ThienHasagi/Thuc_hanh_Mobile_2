@@ -8,10 +8,10 @@ Danh sách tài khoản do nhóm cung cấp:
 
 | Thành viên | GitHub |
 | --- | --- |
-| ThienHasagi — PTIT-er | [@ThienHasagi](https://github.com/ThienHasagi) |
-| pnyyy257 | [@pnyyy257](https://github.com/pnyyy257) |
-| dqhoang4-bot | [@dqhoang4-bot](https://github.com/dqhoang4-bot) |
-| PRTNeroRay | [@PRTNeroRay](https://github.com/PRTNeroRay) |
+| Hà Trường Thiện | [@ThienHasagi](https://github.com/ThienHasagi) |
+| Phùng Như Ý | [@pnyyy257](https://github.com/pnyyy257) |
+| Dương Quốc Hoàng | [@dqhoang4-bot](https://github.com/dqhoang4-bot) |
+| Phạm Đức Thành | [@PRTNeroRay](https://github.com/PRTNeroRay) |
 
 Danh sách thành viên không thay thế lịch sử đóng góp. Phần việc cá nhân được xác nhận qua commit, pull request và kết quả kiểm thử/tài liệu của từng người. Xem [hướng dẫn đóng góp](docs/CONTRIBUTING.md).
 
